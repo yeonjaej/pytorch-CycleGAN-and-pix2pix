@@ -37,6 +37,7 @@ class ImagePool():
         return_images = []
         for image in images:
             image = torch.unsqueeze(image.data, 0)
+            #print(image.dtype)
             if self.num_imgs < self.pool_size:   # if the buffer is not full; keep inserting current images to the buffer
                 self.num_imgs = self.num_imgs + 1
                 self.images.append(image)

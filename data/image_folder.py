@@ -29,7 +29,10 @@ def make_dataset(dir, max_dataset_size=float("inf")):
         for fname in fnames:
             if is_image_file(fname):
                 path = os.path.join(root, fname)
+                #print (type(path))
+                #print (path)
                 images.append(path)
+                #print("make datset?")
     return images[:min(max_dataset_size, len(images))]
 
 
