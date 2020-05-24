@@ -1,0 +1,17 @@
+#
+# Edit this file to configure the viewer utility.
+#
+
+#
+# ATTENTION: We assume that the order of images and labels is preserved in the
+# following files.
+#
+
+train-image-filenames:
+    - '/a/data/bleeker/yjwa/datasets/trainA/dataset-02-cycleGAN-cosmic-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainA/dataset-03-cycleGAN-cosmic-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainA/dataset-05-cycleGAN-cosmic-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainA/dataset-04-cycleGAN-cosmic-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainA/dataset-06-cycleGAN-cosmic-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainA/dataset-07-cycleGAN-cosmic-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainA/dataset-08-cycleGAN-cosmic-images.npz'

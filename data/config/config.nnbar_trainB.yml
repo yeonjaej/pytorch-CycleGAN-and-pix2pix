@@ -1,0 +1,30 @@
+#
+# Edit this file to configure the viewer utility.
+#
+
+#
+# ATTENTION: We assume that the order of images and labels is preserved in the
+# following files.
+#
+
+train-image-filenames:
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-02-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-03-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-04-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-05-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-06-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-07-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-08-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-09-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-10-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-11-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-12-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-13-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-14-cycleGAN-ext-images.npz'
+    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-15-cycleGAN-ext-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-16-cycleGAN-ext-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-17-cycleGAN-ext-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-18-cycleGAN-ext-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-19-cycleGAN-ext-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-20-cycleGAN-ext-images.npz'
+#    - '/a/data/bleeker/yjwa/datasets/trainB/dataset-21-cycleGAN-ext-images.npz'
